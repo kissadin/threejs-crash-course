@@ -27,8 +27,8 @@ light.position.set(0, 5, 5)
 scene.add(light)
 
 // Add a helper to visualize the position of the point light
-const lightHelper = new THREE.PointLightHelper(light, 2); // '1' is the size of the helper sphere
-scene.add(lightHelper);
+//const lightHelper = new THREE.PointLightHelper(light, 2); // '1' is the size of the helper sphere
+//scene.add(lightHelper);
 
 // Background
 //scene.background = new THREE.Color(0x567567); // Set it to black or any color you like
